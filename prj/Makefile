@@ -1,7 +1,7 @@
 APP=sterowanie-lazikiem
 
 
-__start__: obj dat  pliki_do_rysowania ./${APP}
+start: obj dat  pliki_do_rysowania ./${APP}
 	rm -f core.* core; ./${APP}
 
 # Tworzy katalog "obj" gdy go nie ma
