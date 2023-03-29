@@ -1,4 +1,5 @@
 # Lazik
+![Window of the programme](./img/lazik.png)
 ## Table of contents
 * [General information](#general-information)
 * [Technologies](#technologies)
