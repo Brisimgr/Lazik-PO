@@ -1,4 +1,4 @@
-# Lazik H1
+# Lazik
 ## Table of contents
 * [General information](#general-information)
 * [Technologies](#technologies)
